@@ -359,11 +359,16 @@ footer {
         display: flex;
         flex-direction: column;
     }
-
+    
     .banner .description,
     .banner-title {
         margin: 10px 5px;
         text-align: center;
+    }
+
+    .features .section-title{
+        font-size: 40px;
+        font-weight: 700;
     }
 
     .features .btn-primary {
