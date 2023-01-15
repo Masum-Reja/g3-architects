@@ -152,16 +152,17 @@ nav ul {
                       .................................................................. */
 .features {
     display: flex;
-    margin: 0 80px;
-    gap: 30px;
+    margin: 0 50px;
+    gap: 50px;
 
 }
 
 .features .section-title {
     text-align: left;
     border-left: 5px solid #FF900E;
-    height: 100px;
-    padding: 5px 20px;
+    height: 90px;
+    padding: 0 20px;
+
 }
 
 .features img {
@@ -170,7 +171,7 @@ nav ul {
 }
 
 .features .description {
-    margin: 20px 10px;
+    padding: 20px 10px;
 }
 
 .container {
@@ -187,7 +188,7 @@ nav ul {
     text-align: center;
     color: #FFFFFF;
     transform: translate(0 18px);
-    margin: -100px -50px;
+    margin: -100px -90px;
 }
 
 small {
